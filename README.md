@@ -2,7 +2,7 @@
 
 Preview your HTML signature, then copy **either** the raw code **or** the fully rendered signature ready for pasting into Gmail, Outlook, or any rich-text field.
 
-(![image](https://github.com/user-attachments/assets/1c17a422-349b-4eff-adc3-5d6b9eb12bad)
+![image](https://github.com/user-attachments/assets/1c17a422-349b-4eff-adc3-5d6b9eb12bad)
 ![image](https://github.com/user-attachments/assets/4edcbd45-353c-4696-8b1e-29c4ad00d0bf)
 
 
@@ -28,12 +28,10 @@ Preview your HTML signature, then copy **either** the raw code **or** the fully 
 
 ---
 
-1. Paste your email-signature HTML into the textarea.
+1. Paste your email signature HTML into the textarea.
 2. Click **Copy Signature**.
 3. In Gmail **Settings → Signature**, place your cursor in the editor and paste (Ctrl + V / Cmd + V).
 4. Save changes. 🎉
-
-> **Tip:** You can also host the page with GitHub Pages—just push to the `main` branch and enable Pages in repo settings.
 
 ---
 
