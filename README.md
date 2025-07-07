@@ -2,9 +2,7 @@
 
 Preview your HTML signature, then copy **either** the raw code **or** the fully rendered signature ready for pasting into Gmail, Outlook, or any rich-text field.
 
-![Screenshot of the tool showing live preview and two copy buttons](![image](https://github.com/user-attachments/assets/1c17a422-349b-4eff-adc3-5d6b9eb12bad)
-)
-
+(![image](https://github.com/user-attachments/assets/1c17a422-349b-4eff-adc3-5d6b9eb12bad)
 ![image](https://github.com/user-attachments/assets/4edcbd45-353c-4696-8b1e-29c4ad00d0bf)
 
 
